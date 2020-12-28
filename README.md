@@ -1,4 +1,4 @@
-# Machine Learning (NBA Players CLustering)
+# Machine Learning (NBA Players Clustering)
 
 Created and tuned a machine learn model to group players in clusters, ideal number of clusters was found using elbow method and by creating a dendrogram.
 The dataset was gotten from Kaggle and consisted of 11,145 rows and 21 columns. It contained stats for each player from the 1996 season until the 2019 season.
